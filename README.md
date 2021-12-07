@@ -1,4 +1,4 @@
-# Safe-and-Sample-efficient-Reinforcement-Learning-for-Clustered-Dynamic-Uncertain-Environments
+# Safe Visual-Based Navigation
 
 ## Table of Contents
 - [Install](#install)
